@@ -1,0 +1,43 @@
+D:\My Folder\Study\GuidedProject\Starter\bin\Debug\net8.0\Starter.exe
+D:\My Folder\Study\GuidedProject\Starter\bin\Debug\net8.0\Starter.deps.json
+D:\My Folder\Study\GuidedProject\Starter\bin\Debug\net8.0\Starter.runtimeconfig.json
+D:\My Folder\Study\GuidedProject\Starter\bin\Debug\net8.0\Starter.dll
+D:\My Folder\Study\GuidedProject\Starter\bin\Debug\net8.0\Starter.pdb
+D:\My Folder\Study\GuidedProject\Starter\obj\Debug\net8.0\Starter.GeneratedMSBuildEditorConfig.editorconfig
+D:\My Folder\Study\GuidedProject\Starter\obj\Debug\net8.0\Starter.AssemblyInfoInputs.cache
+D:\My Folder\Study\GuidedProject\Starter\obj\Debug\net8.0\Starter.AssemblyInfo.cs
+D:\My Folder\Study\GuidedProject\Starter\obj\Debug\net8.0\Starter.csproj.CoreCompileInputs.cache
+D:\My Folder\Study\GuidedProject\Starter\obj\Debug\net8.0\Starter.dll
+D:\My Folder\Study\GuidedProject\Starter\obj\Debug\net8.0\refint\Starter.dll
+D:\My Folder\Study\GuidedProject\Starter\obj\Debug\net8.0\Starter.pdb
+D:\My Folder\Study\GuidedProject\Starter\obj\Debug\net8.0\Starter.genruntimeconfig.cache
+D:\My Folder\Study\GuidedProject\Starter\obj\Debug\net8.0\ref\Starter.dll
+D:\My Folder\Study\Finished\GuidedProject\Starter\bin\Debug\net8.0\Starter.exe
+D:\My Folder\Study\Finished\GuidedProject\Starter\bin\Debug\net8.0\Starter.deps.json
+D:\My Folder\Study\Finished\GuidedProject\Starter\bin\Debug\net8.0\Starter.runtimeconfig.json
+D:\My Folder\Study\Finished\GuidedProject\Starter\bin\Debug\net8.0\Starter.dll
+D:\My Folder\Study\Finished\GuidedProject\Starter\bin\Debug\net8.0\Starter.pdb
+D:\My Folder\Study\Finished\GuidedProject\Starter\obj\Debug\net8.0\Starter.GeneratedMSBuildEditorConfig.editorconfig
+D:\My Folder\Study\Finished\GuidedProject\Starter\obj\Debug\net8.0\Starter.AssemblyInfoInputs.cache
+D:\My Folder\Study\Finished\GuidedProject\Starter\obj\Debug\net8.0\Starter.AssemblyInfo.cs
+D:\My Folder\Study\Finished\GuidedProject\Starter\obj\Debug\net8.0\Starter.csproj.CoreCompileInputs.cache
+D:\My Folder\Study\Finished\GuidedProject\Starter\obj\Debug\net8.0\Starter.dll
+D:\My Folder\Study\Finished\GuidedProject\Starter\obj\Debug\net8.0\refint\Starter.dll
+D:\My Folder\Study\Finished\GuidedProject\Starter\obj\Debug\net8.0\Starter.pdb
+D:\My Folder\Study\Finished\GuidedProject\Starter\obj\Debug\net8.0\Starter.genruntimeconfig.cache
+D:\My Folder\Study\Finished\GuidedProject\Starter\obj\Debug\net8.0\ref\Starter.dll
+D:\My Folder\Study\Finished\Student grading app\Starter\bin\Debug\net8.0\Starter.exe
+D:\My Folder\Study\Finished\Student grading app\Starter\bin\Debug\net8.0\Starter.deps.json
+D:\My Folder\Study\Finished\Student grading app\Starter\bin\Debug\net8.0\Starter.runtimeconfig.json
+D:\My Folder\Study\Finished\Student grading app\Starter\bin\Debug\net8.0\Starter.dll
+D:\My Folder\Study\Finished\Student grading app\Starter\bin\Debug\net8.0\Starter.pdb
+D:\My Folder\Study\Finished\Student grading app\Starter\obj\Debug\net8.0\Starter.GeneratedMSBuildEditorConfig.editorconfig
+D:\My Folder\Study\Finished\Student grading app\Starter\obj\Debug\net8.0\Starter.AssemblyInfoInputs.cache
+D:\My Folder\Study\Finished\Student grading app\Starter\obj\Debug\net8.0\Starter.AssemblyInfo.cs
+D:\My Folder\Study\Finished\Student grading app\Starter\obj\Debug\net8.0\Starter.csproj.CoreCompileInputs.cache
+D:\My Folder\Study\Finished\Student grading app\Starter\obj\Debug\net8.0\Starter.sourcelink.json
+D:\My Folder\Study\Finished\Student grading app\Starter\obj\Debug\net8.0\Starter.dll
+D:\My Folder\Study\Finished\Student grading app\Starter\obj\Debug\net8.0\refint\Starter.dll
+D:\My Folder\Study\Finished\Student grading app\Starter\obj\Debug\net8.0\Starter.pdb
+D:\My Folder\Study\Finished\Student grading app\Starter\obj\Debug\net8.0\Starter.genruntimeconfig.cache
+D:\My Folder\Study\Finished\Student grading app\Starter\obj\Debug\net8.0\ref\Starter.dll
